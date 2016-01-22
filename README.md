@@ -1,5 +1,7 @@
 # manual
-PyCon JP organizers manual
+
+- PyCon JP organizers manual
+- http://manual.pycon.jp/
 
 ```
 $ virtualenv env
