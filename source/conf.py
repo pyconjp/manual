@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'PyCon JP organizers manual'
+project = u'PyCon JP 運営マニュアル'
 copyright = u'2016, takanory'
 author = u'takanory'
 
