@@ -6,12 +6,23 @@
 PyCon JP 運営マニュアル
 =======================
 
+この資料は Python プログラミング言語のカンファレンス `PyCon JP <http://www.pycon.jp>`_ を運営するため進め方についてまとめたものです。
+
+このドキュメントの中身を参考にして、各種カンファレンスの開催などに役立ててもらえるとうれしいです。
+
+コードは https://github.com/pyconjp/manual で管理しているので、IssueやPull Requestお待ちしています。
+
 目次
 
 .. toctree::
    :maxdepth: 2
 
-
+   overview/index
+   team/index
+   jimukyoku/index
+   venue/index
+   program/index
+   media/index
 
 Indices and tables
 ==================
