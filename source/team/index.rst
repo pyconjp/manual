@@ -7,7 +7,7 @@
 .. toctree::
 
    environment
+   guidance
 
 .. recruiting
-   guidance
    workday
