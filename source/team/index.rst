@@ -8,6 +8,7 @@
 
    environment
    guidance
+   tips
 
 .. recruiting
    workday
