@@ -131,41 +131,46 @@ JIRA Road Map 今後120日間
    - 右上のプロファイルメニューから、パスワードなどが設定できます(アバター画像は `Gravatar <http://ja.gravatar.com/>`_ でメールアドレスに対応した画像を設定する必要があります)
 
    .. figure:: images/jira4.png
-      :alt: JIRA4
+      :alt: JIRAダッシュボード
+      :width: 600
 
-      JIRA4
+      JIRAダッシュボード
 
 2. 課題の作成
 
    - 課題の作成ダイアログが表示されるので、必要な項目を記入して作成ボタンで課題を作成します。このとき担当者にメールで「課題が作成された」ことが通知されます。
 
    .. figure:: images/jira5.png
-      :alt: JIRA5
+      :alt: 課題の作成ダイアログ
+      :width: 500
 
-      JIRA5
+      課題の作成ダイアログ
 
    - 作成された課題を表示すると、例えば以下の様な表示になります。
 
    .. figure:: images/jira6.png
-      :alt: JIRA6
+      :alt: 作成された課題
+      :width: 600
 
-      JIRA6
+      作成された課題
 
 3. 課題の処理開始
 
    - 課題の担当者はステータスがオープンの課題の処理開始ボタンを押します。こうすることによって「自分はこの課題の作業を始める」という意思を表明します。
 
    .. figure:: images/jira7.png
-      :alt: JIRA6
-
-      JIRA6
+      :alt: 「処理開始」ボタンをクリック
+      :width: 600
+              
+      「処理開始」ボタンをクリック
 
    - ステータスは「進行中」に変わります
 
    .. figure:: images/jira8.png
-      :alt: JIRA6
+      :alt: ステータスが「進行中」
+      :width: 400
 
-      JIRA6
+      ステータスが「進行中」
 
 
 4. 課題にコメント
@@ -174,16 +179,18 @@ JIRA Road Map 今後120日間
    - コメントはこんな感じで書くと(参考: `テキスト書式の表記に関するヘルプ <https://pyconjp.atlassian.net/secure/WikiRendererHelpAction.jspa?section=texteffects>`_)
 
    .. figure:: images/jira9.png
-      :alt: JIRA6
+      :alt: コメントを記入
+      :width: 600
 
-      JIRA6
+      コメントを記入
 
    - こんな表示になります
 
    .. figure:: images/jira10.png
-      :alt: JIRA6
+      :alt: コメントの入力結果
+      :width: 600
 
-      JIRA6
+      コメントの入力結果
 
 
 5. 課題を編集
@@ -192,17 +199,18 @@ JIRA Road Map 今後120日間
    - 値の上にマウスカーソルを持って行き、クリックすると編集ができます。
 
    .. figure:: images/jira11.png
-      :alt: JIRA6
+      :alt: 課題の項目にマウスオーバー
+      :width: 600
 
-      JIRA6
-
+      課題の項目にマウスオーバー
 
    - 優先度をクリックするとこんな感じで編集用のリストボックスが開きます。
 
    .. figure:: images/jira12.png
-      :alt: JIRA6
+      :alt: 課題の項目を編集
+      :width: 600
 
-      JIRA6
+      課題の項目を編集
 
 6. 他の課題へのリンク
 
@@ -210,24 +218,27 @@ JIRA Road Map 今後120日間
    - その他メニューのリンクを選択します。
 
    .. figure:: images/jira13.png
-      :alt: JIRA6
+      :alt: 「リンク」メニューを選択
+      :width: 600
 
-      JIRA6
+      「リンク」メニューを選択
 
    - するとリンクダイアログが開くので、リンクする課題を指定します。
    - リンクの種類は通常はrelates to(関連している)を選択してください。課題が重複している場合はdupulicatesを選択します。
 
    .. figure:: images/jira14.png
-      :alt: JIRA6
+      :alt: リンクする課題を指定
+      :width: 600
 
-      JIRA6
+      リンクする課題を指定
 
    - リンクを作成すると以下のように課題リンクが表示されるようになります。
 
    .. figure:: images/jira15.png
-      :alt: JIRA6
+      :alt: 課題リンクの表示
+      :width: 600
 
-      JIRA6
+      課題リンクの表示
 
 7. 課題のウォッチ
 
@@ -235,17 +246,19 @@ JIRA Road Map 今後120日間
    - ピープルのこの課題のウォッチを開始するをクリックします。
 
    .. figure:: images/jira16.png
-      :alt: JIRA6
+      :alt: 課題のウォッチャーに追加
+      :width: 600
 
-      JIRA6
+      課題のウォッチャーに追加
 
    - また、数字をクリックするとウォッチしている人の一覧が確認できます。
-   - 他の人をウォッチャーに追加する方法は不明です。
+   - なお、他の人をウォッチャーに追加するには管理権限が必要です。
 
    .. figure:: images/jira17.png
-      :alt: JIRA6
+      :alt: ウォッチャーの一覧を参照
+      :width: 400
 
-      JIRA6
+      ウォッチャーの一覧を参照
 
 8. 担当者の変更
 
@@ -253,34 +266,38 @@ JIRA Road Map 今後120日間
    - 質問に回答してほしい時なども、担当者を変更するようにしてください。
 
    .. figure:: images/jira18.png
-      :alt: JIRA6
+      :alt: 「割り当て」ボタンをクリック
+      :width: 600
 
-      JIRA6
+      「割り当て」ボタンをクリック
 
    - 割り当てダイアログでは担当者を指定して、コメントを書きます。
    - コメントには、担当者に実施してほしいことを具体的に書いてください。
 
    .. figure:: images/jira19.png
-      :alt: JIRA6
+      :alt: 担当者を指定
+      :width: 600
 
-      JIRA6
+      担当者を指定
 
 9. 課題の解決
 
    - チケットの内容が完了したら課題の解決をクリックして、ダイアログを開きます。
 
    .. figure:: images/jira20.png
-      :alt: JIRA6
+      :alt: 「課題の解決」をクリック
+      :width: 600
 
-      JIRA6
+      「課題の解決」をクリック
 
 
    - 課題の解決ダイアログでは解決状況(基本は修正済み)を選択し、担当者を報告者に変更して状況についてのコメントを記入してください。
 
    .. figure:: images/jira21.png
-      :alt: JIRA6
+      :alt: 「課題の解決」ダイアログ
+      :width: 600
 
-      JIRA6
+      「課題の解決」ダイアログ
 
 10. 課題のクローズ
 
@@ -288,21 +305,24 @@ JIRA Road Map 今後120日間
     - もし問題がある場合は、その右の課題を再オープンするをクリックして、元の担当者に差し戻します。
 
     .. figure:: images/jira22.png
-       :alt: JIRA6
+       :alt: 「課題のクローズ」をクリック
+       :width: 600
 
-       JIRA6
+       「課題のクローズ」をクリック
 
     - 課題のクローズダイアログではコメントを書いて課題を閉じます。
 
-    ..  figure:: images/jira23.png
-        :alt: JIRA6
+    .. figure:: images/jira23.png
+       :alt: 「課題のクローズ」にコメントを記入
+       :width: 600
 
-        JIRA6
+       「課題のクローズ」にコメントを記入
 
     - 課題のステータスがクローズになって終了です。
      
     .. figure:: images/jira24.png
-       :alt: JIRA6
+       :alt: 課題のステータスが「クローズ」
+       :width: 600
 
-       JIRA6
+       課題のステータスが「クローズ」
 
