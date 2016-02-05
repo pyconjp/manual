@@ -9,6 +9,6 @@
    environment
    guidance
    tips
+   recruiting
 
-.. recruiting
-   workday
+.. workday
