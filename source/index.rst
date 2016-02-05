@@ -23,6 +23,7 @@ PyCon JP 運営マニュアル
    venue/index
    program/index
    media/index
+   appendix/index
 
 Indices and tables
 ==================
