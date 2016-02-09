@@ -25,10 +25,14 @@ PyCon JP 運営マニュアル
    media/index
    appendix/index
 
+Todo
+----
+
+.. todolist::
+   
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
