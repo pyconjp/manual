@@ -10,5 +10,4 @@
    guidance
    tips
    recruiting
-
-.. workday
+   workday
