@@ -108,3 +108,51 @@ JIRA登録手順
       パスワード設定画面
 
 3. JIRAにログイン後、 `プロファイル画面 <https://pyconjp.atlassian.net/secure/ViewProfile.jspa>`_ でアバター画像、フルネームの設定をしてください。
+
+GitHub(ソースコード管理)
+========================
+- https://github.com/pyconjp/
+- Webサイトのソースコードやこのドキュメントのバージョン管理を行っています。
+
+GitHubアカウント作成手順
+------------------------
+1. GitHubの画面右上にある **Sign up** をクリックします。
+2. ユーザー名、メールアドレス、パスワードを入力して **Create an account** ボタンをクリックします。
+
+   .. figure:: images/github1.png
+      :alt: GitHubユーザー登録画面
+      :width: 600
+
+      GitHubユーザー登録画面
+
+3. 続けてプラン選択画面が表示されますが、 **Free** のままで問題なので **Finish sign up** ボタンをクリックします。
+
+   .. figure:: images/github2.png
+      :alt: GitHubプラン選択画面
+      :width: 600
+
+      GitHubプラン選択画面
+
+4. 登録したメールアドレスに確認メールが飛んでいるので、 **Verify email address** をクリックして確認します。
+
+   .. figure:: images/github3.png
+      :alt: メールアドレス確認メール
+      :width: 600
+
+      メールアドレス確認メール
+
+5. 以上でアカウント作成は完了なので、作成したアカウントを **スタッフ名簿** に記入し、GitHub Organization の https://github.com/pyconjp に招待されるのを待ちます。招待されると以下の様なメールが届きます。
+
+   .. figure:: images/github4.png
+      :alt: PyCon JP Organizationへの招待メール
+      :width: 600
+
+      PyCon JP Organizationへの招待メール
+
+6. メールのリンクをクリックするとOrganizationへの招待画面が表示されます。 **Join PyCon JP** をクリックして Organization に参加します。
+
+   .. figure:: images/github5.png
+      :alt: PyCon JP Organizationへの招待画面
+      :width: 600
+
+      PyCon JP Organizationへの招待画面
