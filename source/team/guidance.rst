@@ -114,8 +114,8 @@ GitHub(ソースコード管理)
 - https://github.com/pyconjp/
 - Webサイトのソースコードやこのドキュメントのバージョン管理を行っています。
 
-GitHubアカウント作成手順
-------------------------
+GitHub アカウント作成手順
+-------------------------
 1. GitHubの画面右上にある **Sign up** をクリックします。
 2. ユーザー名、メールアドレス、パスワードを入力して **Create an account** ボタンをクリックします。
 
@@ -156,3 +156,25 @@ GitHubアカウント作成手順
       :width: 600
 
       PyCon JP Organizationへの招待画面
+
+GitHub の設定
+-------------
+ついでに以下の設定もしておくとよいです。
+
+- アイコン画像などプロフィールの設定: https://github.com/settings/profile
+- PyCon JP Organizationでの表示設定: https://github.com/orgs/pyconjp/people
+
+  ``Private`` を ``Public`` に変更すると、外部の人が Organization ページを参照した時に People 欄に表示されます。
+
+  .. figure:: images/github6.png
+     :alt: メンバーが見た場合はPeopleが22名
+     :width: 600
+
+     メンバーが見た場合はPeopleが22名
+
+  .. figure:: images/github7.png
+     :alt: 外部から見た場合はPeopleが6名
+     :width: 600
+
+     外部から見た場合はPeopleが6名
+
