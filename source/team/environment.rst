@@ -1,14 +1,19 @@
+.. _environment:
+
 ============
  環境の準備
 ============
 
 チームメンバーの募集をはじめる前に(または平行して)、チームを運営するための各種環境を用意します。
 
-なお、PyCon JPではできるだけ自分たちではサーバーを持たず、外部のサービスを利用しています(サーバーそのものを運用する手間をかけたくないため)。
+なお、PyCon JPではできるだけ自分たちではサーバーを持たず、外部のサービスを利用しています。
+理由としては、サーバーそのものを運用する手間をかけたくないためです。
 
 チャット
 ========
 チームメンバー間でのコミュニケーションのためにチャットを用意します。
+
+.. index:: slack
 
 `Slack <https://slack.com/>`_ のチームを新規に作成しましょう。
 Slackはさまざまな外部サービスとの連携(インテグレーション)が可能なので、後述するコード管理やタスク管理と連携できて便利です。
@@ -16,8 +21,38 @@ Slackはさまざまな外部サービスとの連携(インテグレーショ�
 :他の選択肢: `HipChat <https://ja.atlassian.com/software/hipchat/>`_ 、
    メーリングリスト
 
+タスク管理
+==========
+.. index:: JIRA
+
+タスク管理の環境を用意します。
+PyCon JPでは `JIRA <https://ja.atlassian.com/software/jira>`_ を使用しています。
+
+JIRAは有料のサービスですがPyCon JPでは
+`Open Source License Request <https://ja.atlassian.com/software/views/open-source-license-request/>`_
+からライセンス要求を出し認められたため、無料で使用しています(ありがたいです)。
+
+:他の選択肢: `Redmine <http://redmine.jp/>`_
+
+ドキュメント管理
+================
+.. index:: Googleドライブ
+
+ドキュメント管理は
+`Google ドライブ <https://www.google.co.jp/intl/ja/drive/>`_
+で行います。
+フォルダをスタッフに共有し、ドキュメントはすべてそのフォルダに入れるようにします。
+
+Google ドライブはスプレッドシートは非常に便利ですが、ドキュメントはさくさく書ける感じではないので他のツールも考えた方がいいかも知れません。
+
+:他の選択肢: `Confluence <https://ja.atlassian.com/software/confluence>`_ 、
+   GitHubのWiki、 `esa.io <https://esa.io/>`_ 、
+   `DocBase <https://docbase.io/>`_ 、Wikiなどなど
+
 コード管理
 ==========
+.. index:: GitHub
+
 github の organization を作成します。
 このorganization には基本的にスタッフを全員入れて、書き込み権限を与えます。
 
@@ -34,30 +69,6 @@ githubのissue機能はあまり強力ではないので、本格的なタスク
 :他の選択肢: `Bitbucket <https://bitbucket.org/>`_ 、
   `GitLab <https://about.gitlab.com/>`_
 
-タスク管理
-==========
-タスク管理の環境を用意します。
-PyCon JPでは `JIRA <https://ja.atlassian.com/software/jira>`_ を使用しています。
-
-JIRAは有料のサービスですがPyCon JPでは
-`Open Source License Request <https://ja.atlassian.com/software/views/open-source-license-request/>`_
-からライセンス要求を出し認められたため、無料で使用しています(ありがたいです)。
-
-:他の選択肢: `Redmine <http://redmine.jp/>`_
-
-ドキュメント管理
-================
-ドキュメント管理は
-`Google ドライブ <https://www.google.co.jp/intl/ja/drive/>`_
-で行います。
-フォルダをスタッフに共有し、ドキュメントはすべてそのフォルダに入れるようにします。
-
-Google ドライブはスプレッドシートは非常に便利ですが、ドキュメントはさくさく書ける感じではないので他のツールも考えた方がいいかも知れません。
-
-:他の選択肢: `Confluence <https://ja.atlassian.com/software/confluence>`_ 、
-   GitHubのWiki、 `esa.io <https://esa.io/>`_ 、
-   `DocBase <https://docbase.io/>`_ 、Wikiなどなど
-
 お金管理
 ========
 
@@ -73,18 +84,57 @@ Google ドライブはスプレッドシートは非常に便利ですが、ド�
 - トークンを追加可能(振り込み担当を複数人とかもできる)
 - デビットカード番号が発行できるため、カード決済も可能。カードレスVisaデビットだとカード番号を一時的に発行して捨てることもできる
 
-  - 参考: `商品概要｜Visaデビット行 <http://www.japannetbank.co.jp/service/payment/cardless/detail.html>`_
+  - 参考: `商品概要｜Visaデビット <http://www.japannetbank.co.jp/service/payment/cardless/detail.html>`_
 
 :他の選択肢: `株式会社ゆうちょ銀行 <http://www.jp-bank.japanpost.jp/>`_
 
-外部への連携
+PayPal
+------
+.. index:: PayPal
+           
+イベントのチケット販売したお金を受け取るために `PayPal <https://www.paypal.jp>`_ の口座を用意します。
+支払いを受け取るためには `ビジネス向けアカウントを登録 <https://www.paypal.jp/cms/templates/jp_3rd_global_side.aspx?pageid=10737418282>`_ する必要があります。
+
+書類のやりとりなどがあって多少面倒ですが、ビジネス向けアカウントがあるとイベント登録サイトの connpass で前払いのイベントの作成ができます。
+
+外部との連携
 ============
+PyCon JPを外部に伝えるために各種サービスを用意します。
 
 イベント登録
 ------------
-.. todo:: connpassのことを書く
+.. index:: connpass
+
+イベントの参加登録には `connpass <https://connpass.com>`_ を使用しています。
+connpass ではイベント公開時に過去の参加者に通知がいくため、2つのグループを使い分けて使用しています。
+
+- `PyCon JP - connpass <http://pyconjp.connpass.com/>`_:
+  PyCon JPのイベント参加登録用のグループです。
+- `PyCon JPスタッフ - connpass <http://pyconjp-staff.connpass.com/>`_
+  PyCon JPのスタッフ活動のイベント用のグループです。スタッフミーティングなどはこちらのグループで作成します。
+
+Blog
+----
+.. index:: blog, blogger
+
+各種お知らせを記述するためのBlogを用意します。
+`PyCon JP Blog <http://pyconjp.blogspot.jp/>`_ は `Blogger <https://www.blogger.com/home>`_ を使用しています。
+
+Blogの運営についての詳細は :ref:`blog` を参照してください。
 
 ソーシャルメディア
 ------------------
-.. todo:: Twitter, Facebook Pagesのことを書く
+.. index:: twitter, Facebook Pages
 
+PyCon JP ではソーシャルメディアでの告知用に Twitter と Facebook Pages を運用しています。
+
+- Twitterアカウント: `@PyConJ <https://twitter.com/pyconj>`_
+- Facebook Pages: `PyCon JP <https://www.facebook.com/pyconjp>`_
+
+BlogとSNSの連携
+---------------
+.. index:: dlvr.it
+
+Blog で書いた内容を SNS でシェアするために、 `dlvr.it <https://dlvr.it/>`_ というサービスを使用しています。
+
+仕組みとしては、BlogのRSSを定期的に読み込んで、新しい記事が投稿されたら Twitter と Facebook Pages でシェアしています。
