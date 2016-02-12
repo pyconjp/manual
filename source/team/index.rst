@@ -8,6 +8,7 @@
 
    environment
    guidance
+   attitude
    tips
    recruiting
    workday
