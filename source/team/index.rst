@@ -1,15 +1,14 @@
+.. _team:
+
 ============
- チーム運営
+ チーム活動
 ============
 
-ここでは、チーム全体の作り方や進め方について書きます。
+ここでは、PyCon JP スタッフとして、どのようにしてチームに参加し、活動するかについて書きます。
 
 .. toctree::
    :maxdepth: 2
 
-   environment
    guidance
    attitude
    tips
-   recruiting
-   workday

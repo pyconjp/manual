@@ -19,6 +19,7 @@ PyCon JP 運営マニュアル
 
    overview/index
    team/index
+   management/index
    jimukyoku/index
    venue/index
    program/index
