@@ -8,7 +8,7 @@
 
 管理ユーザーでログイン
 ======================
-https://admin.google.com/pycon.jp/ に ``@pycon.jp`` アカウントでログインします。
+https://admin.google.com/pycon.jp/ に管理権限を持っている ``@pycon.jp`` アカウントでログインします。
 
 座長/副座長には管理権限を設定してあります。
 
