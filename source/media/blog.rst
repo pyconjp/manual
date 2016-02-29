@@ -20,6 +20,14 @@ PyCon JP のオフィシャルブログは `PyCon JP Blog <http://pyconjp.blogsp
 - 投稿者の追加は `PyCon JP Blog - 基本設定 <https://www.blogger.com/blogger.g?blogID=1711203921350230994#basicsettings>`_ 画面から行います。
 - 招待メールが届くので、招待を受け付けるとブログが書けるようになります。
 
+プロフィール設定
+----------------
+Bloggerのプロフィールは Google Accounts とは別に設定する必要があります。
+
+下記のプロフィール編集画面を表示し、少なくとも **表示する名前** を設定してください。
+
+- プロフィール編集画面: https://www.blogger.com/edit-profile.g
+
 ブログの記事を書く
 ==================
 - https://www.blogger.com/home にGoogleアカウントでログインします。
