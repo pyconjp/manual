@@ -12,6 +12,8 @@ PyCon JP 運営マニュアル
 
 コードは https://github.com/pyconjp/manual で管理しているので、IssueやPull Requestお待ちしています。
 
+ドキュメントは http://manual.pycon.jp/ で参照できます。
+
 目次
 
 .. toctree::
