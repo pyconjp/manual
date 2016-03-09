@@ -42,6 +42,37 @@ Slackの基本的な使い方
 
 - Slackの使いこなしについては `Using Slack – Slack Help Center <https://get.slack.help/hc/en-us/categories/200111606-Using-Slack>`_ にいろいろヘルプがあるので参照してください。
 
+さらなる使いこなし
+------------------
+- スター(`Using stars <https://get.slack.help/hc/en-us/articles/201331016-Using-stars>`_)
+
+  - 発言にスターを付けて「お気に入り」に設定できます→あとで見るとかができます。
+  - channel にもスターを付けて「お気に入り」に設定できます→チャンネル一覧で上の方に表示されます。
+  - スターをつけた項目は、アプリ右上の **☆** をクリックすると参照できます。
+
+- ``/`` コマンド(`Using slash commands <https://get.slack.help/hc/en-us/articles/201259356-Slash-Commands>`_)
+
+  - ``/invite @user`` 指定したユーザーを channel に招待する
+  - ``/msg user [message]`` ユーザーにダイレクトメッセージを送る
+  - ``/shortcuts`` キーボードショートカットを表示する
+
+- ``/remind`` コマンド
+
+  - 日時とメッセージを指定すると、指定時刻に slackbot がメッセージを自分に送信してくれるので非常に便利です。
+  - ``/remind help`` remind コマンドの使い方を表示します。
+  - ``/reming list`` 現在登録している remind の一覧を表示します。削除もできます。
+  - ``/remind me to [message] at [time]`` time 時刻に message が自分に送信されます。
+
+.. tip::
+
+   /remind コマンドの例::
+   
+     /remind me to drink water at 3pm every day
+     /remind me on June 1st to wish Linda happy birthday
+     /remind #team-alpha to update the project status every Monday at 9am
+     /remind @jessica about the interview in 3 hours
+     /remind @peter tomorrow "Please review the office seating plan"
+
 JIRA(課題管理)
 ==============
 - http://pyconjp.atlassian.net/
