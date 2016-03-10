@@ -11,4 +11,4 @@
 
    guidance
    attitude
-   tips
+   tool-tips

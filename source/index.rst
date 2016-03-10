@@ -20,7 +20,7 @@ PyCon JP 運営マニュアル
    :maxdepth: 2
 
    overview/index
-   team/index
+   staff/index
    management/index
    jimukyoku/index
    venue/index
