@@ -25,6 +25,7 @@ Slackの基本的な使い方
   - ``@here`` と入力すると、その部屋にいる現在アクティブな人に通知が飛びます。誰かに相談したいときなどに使うと便利です。
   - ``@channel`` と入力すると、その部屋にいる全員に通知が飛びます。
   - 発言の中に名前だけを入れたい場合は、 ``@`` をつけないで名前だけを書きましょう。(例: XXの件は takanory がやってくれたみたい→報告なのでmentionしない)
+  - 明確に誰かに回答して欲しい場合は `@channel` を使うよりも `@name` を使うことをおすすめします。
 
 - メッセージのフォーマット(`Formatting your messages <https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages>`_)
 
@@ -56,7 +57,7 @@ Slackの基本的な使い方
   - ``/msg user [message]`` ユーザーにダイレクトメッセージを送る
   - ``/shortcuts`` キーボードショートカットを表示する
 
-- ``/remind`` コマンド
+- ``/remind`` コマンド(`Setting reminders <https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders>`_)
 
   - 日時とメッセージを指定すると、指定時刻に slackbot がメッセージを自分に送信してくれるので非常に便利です。
   - ``/remind help`` remind コマンドの使い方を表示します。
@@ -73,6 +74,19 @@ Slackの基本的な使い方
      /remind @jessica about the interview in 3 hours
      /remind @peter tomorrow "Please review the office seating plan"
 
+- Slackbot(`Slackbot: your assistant, notepad & programmable bot <https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot>`_)
+
+  - Slackにはカスタマイズ可能なbotが最初から存在します。
+  - キーワードに反応して応答を返すbotは簡単に作成できます。PyCon JPではよく参照するドキュメントのURLを登録しています。
+  - 下記URLに自由にキーワードを追加して、より便利に使ってください。
+  - http://redmine.fudosan-king.jp/projects/pj/issues
+    
+.. figure:: images/slackbot.png
+   :alt: Slackbotとのやりとりの例
+   :width: 500
+
+   Slackbotとのやりとりの例
+   
 JIRA(課題管理)
 ==============
 - http://pyconjp.atlassian.net/
