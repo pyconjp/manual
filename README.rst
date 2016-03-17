@@ -17,6 +17,10 @@ How to build
    (env)$ make html
    (env)$ open build/html/index.html
 
+Theme
+=====
+- `vimalkvn/solar-theme: Theme for Python Sphinx <https://github.com/vimalkvn/solar-theme>`_
+
 .. |docs| image:: https://readthedocs.org/projects/pycon-jp-manual/badge/?version=latest
     :alt: Documentation Status
     :scale: 100%
