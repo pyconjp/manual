@@ -34,12 +34,12 @@ https://admin.google.com/pycon.jp/ に管理権限を持っている ``@pycon.jp
 
    PyCon JPの各チームのグループメールアドレスは以下の様な構成となっています(プログラムチームの例)。
 
-   - program@pycon.jp というユーザーでメールを受け取る
-   - 全メールを program-group@pycon.jp に転送する
-   - program-gruop@pycon.jp に登録しているメンバーにメールを送信する
+   - ``program@pycon.jp`` というユーザーでメールを受け取る
+   - 全メールを ``program-group@pycon.jp`` に転送する
+   - ``program-group@pycon.jp`` に登録しているメンバーにメールを送信する
 
    間に普通のユーザーを挟んでいる理由は、受け取った全メールを保存しておくアカウントを用意するためです。
-   グループに登録してあるメンバーは都度変わるので、全ての受け取ったメールを保存する場所として program@pycon.jp を使用しています。
+   グループに登録してあるメンバーは都度変わるので、全ての受け取ったメールを保存する場所として ``program@pycon.jp`` を使用しています。
 
 メールの転送設定
 ================
@@ -47,7 +47,7 @@ https://admin.google.com/pycon.jp/ に管理権限を持っている ``@pycon.jp
 
 以下の手順で全メールを自分が普段使っているメールアドレスに転送すると便利です。
 
-1. Gmail(https://mail.google.com) に ``@pycon.jp`` でログイン
+1. Gmail(https://mail.google.com) に ``@pycon.jp`` アカウントでログイン
 2. 設定→メール転送とPOP/IMAP
 3. 「転送先アドレスを追加」ボタンをクリックし、普段使っているメールアドレスを入力
 4. 普段使っているメールアドレスに「確認コード」が書かれたメールが届くので、 ``@pycon.jp`` の設定画面に入力
