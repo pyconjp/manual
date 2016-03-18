@@ -1,12 +1,15 @@
+.. _tool-tpis:
 ====================
  ツールの使いこなし
 ====================
 
 ここではスタッフ作業でよく使うツールの使い方について説明します。
 
+.. index:: slack
+           
 Slack(チャット)
 ===============
-- http://pyconjp.slack.com/
+- URL: http://pyconjp.slack.com/
 - ヘルプページ(英語) https://pyconjp.slack.com/help
 - メンバー間、各チームでの相談用のチャットです。ログは最新10,000件しか残らないので、記録したい情報はJIRA(課題管理)ツールを使用してください。
 
@@ -86,10 +89,12 @@ Slackの基本的な使い方
    :width: 500
 
    Slackbotとのやりとりの例
+
+.. index:: JIRA
    
 JIRA(課題管理)
 ==============
-- http://pyconjp.atlassian.net/
+- URL: http://pyconjp.atlassian.net/
 - PyCon JP の作業タスク(課題、チケットとも呼ぶ)の管理をするためのツールです。
 
 ダッシュボード
@@ -387,10 +392,12 @@ JIRA Road Map 今後120日間
 
        課題のステータスが「クローズ」
 
-Google Drive(ファイル共有)
-==========================
-- https://drive.google.com/
-- チーム内でのファイル共有にはGoogle Driveを使用しています。
+.. index:: Googleドライブ
+           
+Googleドライブ(ファイル共有)
+============================
+- URL: https://drive.google.com/
+- チーム内でのファイル共有にはGoogleドライブを使用しています。
 
 基本的な使い方
 --------------
@@ -428,3 +435,41 @@ Google スプレッドシート
    PyCon JP 2016 ではスプレッドシートとApps Scriptの組み合わせで、Slackに通知する機能や、Twitter/Facebookに告知する機能を提供しています。
 
    - 参考: :doc:`/appendix/templates`
+
+.. index:: Googleハングアウト, ハングアウト
+
+Googleハングアウト(ビデオ会議)
+==============================
+- URL: https://hangouts.google.com/
+- リモートでの音声ミーティングにはGoogleハングアウトを主に使用しています。
+- 他の手段としてSkype、SlackのCall機能などがありますが、以下の理由で最近はハングアウトの利用が増えているようです。
+
+  - Skype のように事前にアカウントの共有が不要
+  - 複数人で会話できる(Slack Callは無料プランだと1対1のみ)
+
+ハングアウトをはじめる
+----------------------
+1. 最初に、Googleハングアウト(https://hangouts.google.com/)の画面をChromeで開き、 **ビデオハングアウト** をクリックします。
+
+   .. figure:: images/hangouts1.png
+      :alt: Googleハングアウト
+      :width: 500
+
+      Googleハングアウト
+
+2. 次に適当な名前を入力して、 **→** をクリックしてハングアウトを開始します。
+
+   .. figure:: images/hangouts2.png
+      :alt: ハングアウト名を入力
+      :width: 500
+
+      ハングアウト名を入力
+
+3. 画面中央にハングアウトのパーマリンクが表示されるので、このURLをSlackなどで共有します。また、画面左側のメニューに「画面共有」があるので、リモートの人と同じ画面を見ながら会議を進める場合には便利なので活用してください。
+
+   .. figure:: images/hangouts3.png
+      :alt: リンクを共有
+      :width: 500
+
+      リンクを共有
+
