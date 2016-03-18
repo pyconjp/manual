@@ -11,4 +11,5 @@
 
    guidance
    attitude
+   communication
    tool-tips
