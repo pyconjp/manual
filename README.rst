@@ -25,3 +25,9 @@ Theme
     :alt: Documentation Status
     :scale: 100%
     :target: http://manual.pycon.jp/?badge=latest
+
+How to contribute
+=================
+- このマニュアルをcloneしてガンガン commit したり Pull Request ください
+- PyCon JP スタッフはこのリポジトリへの書き込み権限があるので、直接 commit/push してもらって構いません
+- スタッフじゃない人も Pull Request もらえたら喜んで merge するので、typo 指摘とかなんでももらえると嬉しいです
