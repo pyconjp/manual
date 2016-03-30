@@ -14,3 +14,4 @@
    articles
    sponsorship
    guidebook
+   staff
