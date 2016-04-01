@@ -4,6 +4,11 @@
 
 |docs|
 
+.. |docs| image:: https://readthedocs.org/projects/pycon-jp-manual/badge/?version=latest
+    :alt: Documentation Status
+    :scale: 100%
+    :target: http://manual.pycon.jp/?badge=latest
+
 How to build
 ============
 
@@ -30,9 +35,4 @@ How to contribute
 Reference
 =========
 - `PyCon JP Blog: 「PyCon JP 運営マニュアル」を執筆中 <http://pyconjp.blogspot.jp/2016/03/pyconjp-manual.html>`_
-
-.. |docs| image:: https://readthedocs.org/projects/pycon-jp-manual/badge/?version=latest
-    :alt: Documentation Status
-    :scale: 100%
-    :target: http://manual.pycon.jp/?badge=latest
 
