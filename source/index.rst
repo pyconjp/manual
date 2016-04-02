@@ -26,6 +26,7 @@ PyCon JP 運営マニュアル
    venue/index
    program/index
    media/index
+   website/index
    appendix/index
 
 Todo
