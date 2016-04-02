@@ -9,8 +9,8 @@
 .. toctree::
 
    blog
-   website
    sns
    articles
    sponsorship
    guidebook
+
