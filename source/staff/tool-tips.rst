@@ -579,6 +579,12 @@ GitHubに対応したツールは以下のものがあります。
 
   - ブランチ名にはチケット番号を入れます
 
+.. figure:: images/sourcetree1.png
+   :alt: ブランチを作成
+   :width: 500
+
+   ブランチを作成
+
 4. コードをコミット
 -------------------
 - 左上の **Commit** をクリック
@@ -596,6 +602,12 @@ GitHubに対応したツールは以下のものがあります。
 
 - 次の画面で Create pull request を作成します
 
+.. figure:: images/github8.png
+   :alt: Pull Requestを作成
+   :width: 500
+
+   Pull Requestを作成
+
 6. JIRA課題でレビュー依頼
 -------------------------
 - JIRA課題を編集し、担当者をレビュワーに変更してレビューを依頼をします
@@ -606,6 +618,12 @@ GitHubに対応したツールは以下のものがあります。
 7. レビューしてマージ
 ---------------------
 - レビュワーは内容が問題なければ、Pull request 上で **Merge pull request** をクリックしてマージします
+
+.. figure:: images/github9.png
+   :alt: Pull Requestをマージ
+   :width: 500
+
+   Pull Requestをマージ
 
 8. JIRA課題をクローズ
 ---------------------
