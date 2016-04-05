@@ -11,6 +11,6 @@
    blog
    website
    sns
-   articles
    sponsorship
+   pressrelease
    guidebook
