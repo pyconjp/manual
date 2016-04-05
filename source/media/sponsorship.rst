@@ -36,6 +36,8 @@ PyCon JPはスポンサーの協賛によって成り立っています。
 
 引き継いだ担当者は `このチケット <https://pyconjp.atlassian.net/browse/HTJ-252>`_ を見ておくと概要を掴めます。）
 
+スポンサー打診や担当変更お知らせメールのテンプレは `こちら <https://docs.google.com/document/d/1M3rpdwbIfHggUzLVwft6nKWD5LrbFiK7lKkN89kV6jo>`_ を参照ください。
+
 ※参考チケット
 
 `[HTJ-402] メディアスポンサーさんへの連絡時期 - pycon.jp <https://pyconjp.atlassian.net/browse/HTJ-402>`_
