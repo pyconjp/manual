@@ -27,6 +27,11 @@ PyCon JPのSlackでは主に以下の様なチャンネル(channel、チャッ�
 
 - ``#committee``: 一般社団法人PyCon JPの話をしているチャンネルです。
 - ``#general``: PyCon JP Slackに参加する全員が入っているチャンネルです。主には通知用に使っています。
+- **通知要チャンネル**: 各種外部ツールからの通知要のチャンネルです。通知を見たい場合に参加してください。
+
+  - ``#notify-calendar``: PyCon JP の Google カレンダー(カレンダー ID: bsn2855fnbngs1itml66l28ml8@group.calendar.google.com)のイベントを通知します。
+  - ``#notify-github``: GitHub の `PyCon JP <https://github.com/pyconjp/>`_ でのコミット、Pull Requestなどを通知します。
+  - ``#notify-jira``: `JIRA <http://pyconjp.atlassian.net/>`_ のチケット更新を通知します。
 - ``#random``: 雑談用のチャンネルです。「おみくじ」など自由に使って下さい。
 - **その他チャンネル**: その他、用途に応じたチャンネルがあります。例えば ``#sponsor`` はスポンサー担当、 ``#design`` はデザインに関する話などをしています。
 
