@@ -10,7 +10,7 @@
 
    blog
    sns
-   articles
    sponsorship
+   pressrelease
    guidebook
 
