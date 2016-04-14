@@ -5,7 +5,7 @@
 ここではPyCon JPとはそもそもどういうイベントか、全体スケジュールについて書きます。
 
 .. toctree::
-   maxdepth: 2
+   :maxdepth: 2
 
    about
    schedule
