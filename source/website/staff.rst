@@ -10,14 +10,13 @@
 
 管理サイトのURLは、以下のとおりです。
 
-* `ステージング環境 <http://staging.pycon.jp/2016/ja/admin>`_
-    * ステージング環境にはBASIC認証がかけられています。username/passwordはスタッフに確認してください。
-* `本番環境 <http://staging.pycon.jp/2016/ja/admin>`_
+* `ステージング環境 <http://staging.pycon.jp/2016/ja/admin>`_ : ステージング環境にはBASIC認証がかけられています。username/passwordはスタッフに確認してください。
+* `本番環境 <http://pycon.jp/2016/ja/admin>`_
 
 
 アカウント作成
 ==============
-まずは `こちら <http://staging.pycon.jp/2016/ja/account/signup/>`_ よりアカウントを作成してください
+まずはWebサイト( `ステージング <http://staging.pycon.jp/2016/ja/account/signup/>`_ 、 `本番 <http://pycon.jp/2016/ja/account/signup/>`_ )よりアカウントを作成してください
 
 スタッフ登録
 ============
@@ -29,25 +28,25 @@
 
 チーム登録
 ==========
-`サイト <http://staging.pycon.jp/2016/ja/account/signup/>`_ に戻り、
+サイト ( `ステージング <http://staging.pycon.jp/2016/ja/account/signup/>`_ , `本番 <http://pycon.jp/2016/ja/account/signup/>`_ )に戻り、
 ページ右上のリンクからダッシュボードを開きます。
 
 .. figure:: images/staff01.png
-     :alt: ウェブサイトへのスタッフ登録マニュアル
+   :alt: ウェブサイトへのスタッフ登録マニュアル
 
 ページ中腹に、「チーム」セクションがあります。参加済のチーム、参加可能なチームのリストが表示されます。
 
 .. figure:: images/staff02.png
-     :alt: ウェブサイトへのスタッフ登録マニュアル
+   :alt: ウェブサイトへのスタッフ登録マニュアル
 
 参加したいチームのリンクをクリックすると、参加ボタンが出てきます。
 
 .. figure:: images/staff03.png
-     :alt: ウェブサイトへのスタッフ登録マニュアル
+   :alt: ウェブサイトへのスタッフ登録マニュアル
 
 左側の（緑色の！）「参加」ボタンをクリックすると、チーム登録が完了します。チームメンバーの一覧にあなたのアカウントがあることを確認して下さい。
 
 .. figure:: images/staff04.png
-     :alt: ウェブサイトへのスタッフ登録マニュアル
+   :alt: ウェブサイトへのスタッフ登録マニュアル
 
 チーム登録作業は以上です！お疲れさまでした。
