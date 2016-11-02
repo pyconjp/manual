@@ -16,3 +16,12 @@
    closing
    openspaces
    interpreter
+
+.. note::
+
+   以下もあるとよさそう(takanory)
+
+   * ライトニングトーク
+   * タイムテーブルをまとめる話しとか
+   * ビギナーセッション
+   
