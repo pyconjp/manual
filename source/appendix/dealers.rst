@@ -17,7 +17,9 @@ PyCon JPの運営で利用している、利用していた業者の一覧です
    * - `カクヤス <https://www.kakuyasu.co.jp/>`_
      - 水などの購入
    * - `エームサービス <http://www.aimservices.co.jp/>`_
-     - コーヒーサービス
+     - 朝食・ランチ・パーティー・ドリンク
+   * - `G-Style <http://party-gstyle.com/>`_
+     - パーティー
 
 グッズ制作
 ==========
