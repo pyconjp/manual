@@ -8,3 +8,4 @@
    dealers
    templates
    task-template
+   rst-guide
