@@ -13,6 +13,7 @@
    sponsorship
    pressrelease
    guidebook
+   mobileapp
 
 .. note::
 
