@@ -16,6 +16,7 @@
    closing
    openspaces
    interpreter
+   youth-coder
 
 .. note::
 
