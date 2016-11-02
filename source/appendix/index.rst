@@ -7,3 +7,4 @@
    services
    dealers
    templates
+   task-template
