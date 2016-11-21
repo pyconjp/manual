@@ -14,12 +14,12 @@
    pressrelease
    guidebook
    mobileapp
+   photograph
 
 .. note::
 
    以下もあるとよさそう(takanory)
 
-   * 写真撮影
    * アプリとWebの話し
    * 記事作成
    * 外部メディアのインタビュー
