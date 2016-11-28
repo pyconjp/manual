@@ -56,6 +56,9 @@
   - たとえば、何個か候補を出してみる。 `2016当時の議事録 <https://docs.google.com/document/d/1GFmNJXkZeLA8D58VHJ1Q-wgS4zdlgvnDghGxagrMCsI/edit>`_
   - このときは議事録で候補を出した後、Raspberry Piとか持ってけるか確認したりしました（ `できませんでした <https://pyconjp.atlassian.net/browse/SAR-533>`_ ）。
   - 最終的にはメンターであるTENTOさんに内容を決めてもらいました。
+- 内容決まったらブログに書きましょう `2016の名前決まった時のブログ <http://pyconjp.blogspot.jp/2016/05/apply-youth-coder-workshop.html>`_
+
+  - ブログの権限もらってください。 `ブログ権限もらったチケット <https://pyconjp.atlassian.net/browse/SAR-625>`_
 
 メンターの依頼
 --------------
