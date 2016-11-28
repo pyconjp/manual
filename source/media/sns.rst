@@ -8,7 +8,7 @@ Twitter (Facebookも?)
 概要
 ====
 
-- PyCon JPに関する情報を周知するためにSNSを利用しています
+- PyCon JPに関する情報を周知するためにSNS(主にTwitter)を利用しています
 
 目的
 ====
