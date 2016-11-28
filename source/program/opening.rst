@@ -52,23 +52,22 @@
 スライド作成
 -----------------
 - 各日のスライドを作成
-参考に2015, 2016のスライドを示す。
 
-PyCon JP 2015 1日目
-https://speakerdeck.com/hsekine/pycon-jp-2015-opening-01
+  参考に2015, 2016のスライドを示す。
 
-PyCon JP 2015 2日目
-https://speakerdeck.com/hsekine/pycon-jp-2015-opening-02
-
-PyCon JP 2016 1日目
-https://speakerdeck.com/pyconjp/pycon-jp-2016-day-1-opening
-
-PyCon JP 2016 2日目
-https://speakerdeck.com/pyconjp/pycon-jp-2016-day-2-opening
+  - PyCon JP 2015 1日目
+    https://speakerdeck.com/hsekine/pycon-jp-2015-opening-01
+  - PyCon JP 2015 2日目
+    https://speakerdeck.com/hsekine/pycon-jp-2015-opening-02
+  - PyCon JP 2016 1日目
+    https://speakerdeck.com/pyconjp/pycon-jp-2016-day-1-opening
+  - PyCon JP 2016 2日目
+    https://speakerdeck.com/pyconjp/pycon-jp-2016-day-2-opening
 
 - 原稿の作成
-英語で原稿を作成する。スライドにメモで載せてもOK。
-別ファイルで作ってあるとレビューした貰いやすいかも(Googleドキュメント推奨)
+
+  英語で原稿を作成する。スライドにメモで載せてもOK。
+  別ファイルで作ってあるとレビューした貰いやすいかも(Googleドキュメント推奨)
 
 - スライドのレビュー依頼
 
@@ -80,10 +79,12 @@ https://speakerdeck.com/pyconjp/pycon-jp-2016-day-2-opening
 
 
 - 発表練習
-自信がなければ発表練習をするとよい。
-誰かに見てもらうと発表の改善につながる。
+
+  自信がなければ発表練習をするとよい。
+  誰かに見てもらうと発表の改善につながる。
 
 - 発表
-自信をもって発表しよう。
-行動規範の内容に気を付けて！
+
+  自信をもって発表しよう。
+  行動規範の内容に気を付けて！
 
