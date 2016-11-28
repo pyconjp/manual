@@ -27,7 +27,7 @@ PyCon JPはスポンサーの協賛によって成り立っています。
 
 詳細なスケジュールについては、Google Driveの各年度フォルダの配下の"マイルストーン"ファイルを参照ください。
 
-また個別企業様への対応詳細は限定情報のため、スタッフ限定の `ファイル <https://docs.google.com/document/d/1Py_a4nmzFRfEtMhLRR5MvDkoQUIFgSutySEstvwY5fU>`_ を確認ください。
+また個別企業様への対応詳細は限定情報のため、スタッフ限定の `ファイル <https://docs.google.com/document/d/1WZaOwCjxwYXhkHqkwNQ8hjf3i2X1-HHIA-52ppNkYjE/>`_ を確認ください。
 
 .. _percussion:
 
@@ -39,13 +39,10 @@ PyCon JPはスポンサーの協賛によって成り立っています。
 
 （もし前年度と担当が変わった場合は事前にご挨拶メールをしておきましょう。
 
-引き継いだ担当者は `このチケット <https://pyconjp.atlassian.net/browse/HTJ-252>`_ を見ておくと概要を掴めます。）
+引き継いだ担当者は `このチケット <https://pyconjp.atlassian.net/browse/SAR-163>`_ を見ておくと概要を掴めます。）
 
 ※参考チケット
-
-`[HTJ-402] メディアスポンサーさんへの連絡時期 - pycon.jp <https://pyconjp.atlassian.net/browse/HTJ-402>`_
-
-`[HTJ-365] メディアスポンサーにスポンサー打診メールを送る - pycon.jp <https://pyconjp.atlassian.net/browse/HTJ-365>`_
+`[SAR-163] メディアスポンサーにスポンサー打診メールを送信 - pycon.jp <https://pyconjp.atlassian.net/browse/SAR-163>`_
 
 --------------------------------
 メール送信例
@@ -112,19 +109,7 @@ PyCon JP 20** メディアスポンサー登録のお願い::
 ============================
 スポンサーの応募をいただいた企業様と、協賛内容の詳細を詰めていきます。
 
-以下は例年の協賛内容です。参考までに。
-
-.. csv-table:: 
-    :header: "スポンサー名", "協賛内容"
-    :widths: 15, 40
-
-    "CodeZine様", "`開催前後レポート <https://codezine.jp/article/corner/600>`_"
-    "Think IT様", "開催前インタビュー記事"
-    "エンジニアtype様", "`開催前インタビュー記事 <http://type.jp/et/log/tag/pycon-jp>`_"
-    "gihyo.jp様", "お知らせ掲載、当日レポート"
-    "O'Reilly Japan様", "`告知 <http://www.oreilly.co.jp/sales/2014/05/ann-pycon-jp-2014-call-for-papers.html>`_、物販"
-    "dots.様", "dots.内での告知、メルマガ発行"
-    "togetter様", "当日のまとめ作成"
+以下は例年の協賛内容は `チケット <https://pyconjp.atlassian.net/browse/SAR-164>`_ を参照ください。
 
 .. _sponsorship_register:
 
@@ -149,28 +134,27 @@ Webサイトのメディアスポンサー登録フォームが完成したら�
 CodeZine開催前レポート
 
 時期：
-開催1ヶ月半2ヶ月前からスタート(原稿の着手はもっと前)。全4回。
+開催2ヶ月前からスタート(原稿の着手はもっと前)。全4回。
 6月頃に、一旦CodeZine担当へ【◯月ごろから開始したい】旨を伝え、掲載までの日数等を確認してもらう。
 その後、脱稿&掲載のスケジュールをこちらで確定し、CodeZine担当にお知らせする。
 この時、同時にチケットも立てておくと良い。
 
 
 運営内部向け：
-日程が決まったらチケットを立て、内容・担当者を決めたら担当にチケットをアサイン。
-担当決めについては、各チームの副座長と話し合って決めると良い。
-副座長に割り振りしてもらっても良いが、だいたいこの時期みんな忙しいので、こっちで割り振ってあげたほうが親切。
+日程が決まったらチケットを立て、内容を決めたら副座長にチケットをアサイン。
+執筆担当決めについては、各チームの副座長に決めてもらうと良い。
 なお、チケットの期限は、実際の脱稿予定日より4-5日程度早めておくと良い。
 
 
 原稿：
 
-Git Hubにレポジトリを用意する。
+GitHubにレポジトリを用意する。
 目次だけメディアで作っておいて、あとは各自書いてもらうというスタイルで行う。
 執筆者プロフィールも忘れずに。
 
 
 脱稿：
-原稿をdropbox等で見られる形にして、そのリンク先をCodeZine担当にお送りする。
+原稿をGoogle Docs等で見られる形にして、そのリンク先をCodeZine担当にお送りする。
 
 
 戻し：
@@ -178,7 +162,7 @@ Git Hubにレポジトリを用意する。
 修正依頼はそれほどないと思うので、メールでの対応で問題なさそう。
 
 
-詳細は スタッフ限定の `ファイル <https://docs.google.com/document/d/1Py_a4nmzFRfEtMhLRR5MvDkoQUIFgSutySEstvwY5fU>`_ を参照ください。
+詳細は スタッフ限定の `ファイル <https://docs.google.com/document/d/1WZaOwCjxwYXhkHqkwNQ8hjf3i2X1-HHIA-52ppNkYjE/>`_ を参照ください。
 
 .. _confirm_press:
 
@@ -188,9 +172,9 @@ Git Hubにレポジトリを用意する。
 
 ※参考チケット
 
-`[HTJ-1176] オライリーさんの物販について、ブース・搬入出の確認 - pycon.jp <https://pyconjp.atlassian.net/browse/HTJ-1176?jql=project%20%3D%20HTJ%20AND%20component%20%3D%20%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2>`_
+`[SAR-746] メディアスポンサーのブース出展についてまとめる - pycon.jp <https://pyconjp.atlassian.net/browse/SAR-746>`_
 
-`[HTJ-682] 会場での書籍物販について確認 - pycon.jp <https://pyconjp.atlassian.net/browse/HTJ-682?jql=project%20%3D%20HTJ%20AND%20component%20%3D%20%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2>`_
+`[SAR-982] 当日車で搬入出するメディアスポンサーに当日の注意点を連絡する - pycon.jp <https://pyconjp.atlassian.net/browse/SAR-982>`_
 
 .. _email_press:
 
@@ -206,7 +190,7 @@ Git Hubにレポジトリを用意する。
 
 ※参考チケット
 
-`[HTJ-1342] 関係者にお礼メールを送る(メディア) - pycon.jp <https://pyconjp.atlassian.net/browse/HTJ-1342>`_
+`[SAR-1517] お礼メール送信: メディアスポンサー - pycon.jp <https://pyconjp.atlassian.net/browse/SAR-1517>`_
 
 .. _reports_after_holding:
 
@@ -216,5 +200,4 @@ Git Hubにレポジトリを用意する。
 基本的に開催前レポートと同様。
 gitリポジトリも開催前と同じ物を使うと楽。
 
-詳細は スタッフ限定の `ファイル <https://docs.google.com/document/d/1Py_a4nmzFRfEtMhLRR5MvDkoQUIFgSutySEstvwY5fU>`_ を参照ください。
-
+詳細は スタッフ限定の `ファイル <https://docs.google.com/document/d/1WZaOwCjxwYXhkHqkwNQ8hjf3i2X1-HHIA-52ppNkYjE/>`_ を参照ください。
