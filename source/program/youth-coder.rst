@@ -75,6 +75,7 @@
 参考
 --------------
 
+- `PyCon US Young Coders tutrial <https://github.com/mechanicalgirl/young-coders-tutorial>`_
 - `現行の小学校学習指導要領 <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/>`_
 - `NHK for School <http://www.nhk.or.jp/school/>`_
 
