@@ -59,6 +59,12 @@ PyCon JPの運営で利用している、利用していたサービスの一覧
 
        - Id: ``bsn2855fnbngs1itml66l28ml8@group.calendar.google.com``
      - `カレンダー(HTML) <https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo>`_
+   * - `Speaker Deck <https://speakerdeck.com/>`_
+     - オープニングなどのスライドを管理
+     - https://speakerdeck.com/pyconjp
+   * - `MailChimp <https://mailchimp.com/>`_
+     - メール配信用サービス
+     -
    
 サーバー関連
 ============
@@ -78,6 +84,8 @@ PyCon JPの運営で利用している、利用していたサービスの一覧
      - このマニュアルや http://www.pycon.jp のホストに使用
    * - `Google Apps <https://apps.google.com/>`_
      - ``@pycon.jp`` のメールアドレスを管理
+   * - `Heroku <https://www.heroku.com/>`_
+     - slackin用 https://pyconjp-fellow.herokuapp.com/
      
 SNS
 ===
@@ -129,3 +137,5 @@ SNS
      - スポンサー企業などへの年賀状の発送
    * - `Zapier <https://zapier.com/>`_
      - さまざまなサービス間の連携に使用
+   * - `TechSoup Japan <http://www.techsoupjapan.org/>`_
+     - NPO法人、公益法人、社会福祉法人を対象としたソフトウェア寄贈プログラム

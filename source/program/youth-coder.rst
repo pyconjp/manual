@@ -8,6 +8,7 @@
 ====
 - (ここにこのタスクの概要を書いてください。どういうことを実施するものなのか)
 - 将来のエンジニア（子ども）のためにPythonによるプログラミングを体験してもらう
+- プログラミングによって、問題解決する能力や、コンピューターの考え方を学んでもらう
 
 目的
 ====
@@ -58,6 +59,10 @@
 内容を決める
 ==============
 - (スケジュールに書いた各項目でどういったことを実施するかを書いてください。誰と連携するのかも書いてあるとよいです)
+- 子供向けワークショップとして何が提供できるだろうか。
+
+  - たとえば、算数とか理科などの学習指導要領(学校の先生がこれをもとに年間の計画をつくるための骨子のようなもの)を覗いてみることで、普段の勉強と関連付けるとか
+
 - 子供向けワークショップとして何があるか候補を出す
 
   - たとえば、何個か候補を出してみる。 `2016当時の議事録 <https://docs.google.com/document/d/1GFmNJXkZeLA8D58VHJ1Q-wgS4zdlgvnDghGxagrMCsI/edit>`_
@@ -66,6 +71,13 @@
 - 内容決まったらブログに書きましょう `2016の名前決まった時のブログ <http://pyconjp.blogspot.jp/2016/05/apply-youth-coder-workshop.html>`_
 
   - ブログの権限もらってください。 `ブログ権限もらったチケット <https://pyconjp.atlassian.net/browse/SAR-625>`_
+
+参考
+--------------
+
+- `PyCon US Young Coders tutrial <https://github.com/mechanicalgirl/young-coders-tutorial>`_
+- `現行の小学校学習指導要領 <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/>`_
+- `NHK for School <http://www.nhk.or.jp/school/>`_
 
 メンターの依頼
 --------------
