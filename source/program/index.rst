@@ -18,6 +18,7 @@
    openspaces
    interpreter
    youth-coder
+   invited_lecture
 
 .. note::
 
