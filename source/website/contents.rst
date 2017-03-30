@@ -21,6 +21,7 @@
      :alt: ページ追加フォーム
 
 
+`（動画）PyCon JP Web への SiteTree URLの追加方法 <https://youtu.be/Lmkpq3Ir9A8>`_
 
 ============ ===============
 option       説明
