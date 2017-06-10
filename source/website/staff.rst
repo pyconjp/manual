@@ -24,7 +24,7 @@
 依頼はチームが決まっているのであれば各副座長に `JIRA <https://pyconjp.atlassian.net/>`_ でチケットを作成して依頼してください。
 お急ぎの際はSlackでmentionして下さい
 
-副座長が多忙の際は、座長のtakanoryさん、メディアチームのyhashimoto、yoshidaさんなどが対応可能です
+副座長が多忙の際は、座長のyoshidaさん、システムのyhashimotoさんなどが対応可能です
 
 チーム登録
 ==========
