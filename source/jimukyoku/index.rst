@@ -12,10 +12,10 @@
    goods
    booklet
    reception
+   jobfair
 
 .. note::
 
    以下もあるとよさそう(takanory)
 
-   * ジョブフェア
    * スポンサー関連は(申込み支払い、ブース、他みたいに分けてもいいかも)
