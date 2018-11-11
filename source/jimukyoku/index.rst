@@ -2,20 +2,14 @@
  事務局チーム
 ==============
 
-事務局チームは運営全体を取りまとめる調整役のチームです。
+事務局チームは、スポンサー(一般/メディア)とのコミュニケーションを行うチームです。
+また、PyCon JP イベント全体の予算を編成し、会計作業を行うのもこのチームです。
 
 .. toctree::
 
-   participants
-   sponsorship
-   design
-   goods
-   booklet
-   reception
+   general_sponsorship
+   jobfair
+   media_sponsorship
+   budget
+   accounts
 
-.. note::
-
-   以下もあるとよさそう(takanory)
-
-   * ジョブフェア
-   * スポンサー関連は(申込み支払い、ブース、他みたいに分けてもいいかも)

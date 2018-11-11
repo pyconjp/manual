@@ -23,9 +23,11 @@ PyCon JP 運営マニュアル
    staff/index
    management/index
    jimukyoku/index
+   media/index
    venue/index
    program/index
-   media/index
+   system/index
+   design/index
    website/index
    rules/index
    appendix/index
