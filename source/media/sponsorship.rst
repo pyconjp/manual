@@ -16,7 +16,7 @@ PyCon JPはスポンサーの協賛によって成り立っています。
     :header: "日程", "種別", "実施業務"
     :widths: 8, 10, 20
 
-    "4,5ヶ月前", "スポンサー対応", ":ref:`percussion`"
+    "4,5ヶ月前", "スポンサー対応", :ref:`percussion`
     "3ヶ月前", "スポンサー対応", ":ref:`coordination`"
     "スポンサー登録フォームオープン後", "スポンサー対応", ":ref:`sponsorship_register`"
     "2ヶ月前", "レポート", ":ref:`reports`"
