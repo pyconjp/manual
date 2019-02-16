@@ -101,6 +101,8 @@ PayPal
 ============
 PyCon JPを外部に伝えるために各種サービスを用意します。
 
+.. _event-registration-on-connpass
+
 イベント登録
 ------------
 .. index:: connpass
