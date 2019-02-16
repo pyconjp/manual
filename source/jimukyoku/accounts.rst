@@ -64,7 +64,7 @@
 
 - PayPal
 
-  - :ref:`PayPalについて <paypal>`
+  - :ref:`PayPalについて <about-paypal>`
   - connpassでのイベント参加者の支払を受け取るために使います -> :ref:`event-registration-on-connpass`
   - PayPalで講演者へ旅費を送金することがあります
   - スポンサー(主に海外)に請求することがあります

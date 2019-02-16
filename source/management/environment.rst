@@ -88,7 +88,7 @@ githubのissue機能はあまり強力ではないので、本格的なタスク
 
 :他の選択肢: `株式会社ゆうちょ銀行 <http://www.jp-bank.japanpost.jp/>`_
 
-.. _paypal:
+.. _about-paypal:
 
 PayPal
 ------
@@ -111,7 +111,7 @@ PayPalの1つのアカウントには、複数のユーザーを追加できま�
 ============
 PyCon JPを外部に伝えるために各種サービスを用意します。
 
-.. _event-registration-on-connpass
+.. _event-registration-on-connpass:
 
 イベント登録
 ------------
@@ -129,7 +129,7 @@ connpassで有料イベントの開催する場合、PayPalのメールアドレ
 
 * connpassに設定するメールアドレスは、 ``pycon.jpメアド管理`` を参照してください。
 
-* PayPalにメールアドレスを追加する方法については :ref:`paypal` を参照してください。
+* PayPalにメールアドレスを追加する方法については :ref:`about-paypal` を参照してください。
 
 Blog
 ----
