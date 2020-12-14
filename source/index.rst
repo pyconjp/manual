@@ -6,6 +6,8 @@
 PyCon JP 運営マニュアル
 =======================
 
+【お知らせ】PyCon JP のナレッジベースは、 `こちら <https://pyconjp.atlassian.net/wiki/x/c4CpM>`_ に移動しました。今後は新しいナレッジベースを更新していきます。 
+
 この資料は Python プログラミング言語のカンファレンス `PyCon JP <http://www.pycon.jp>`_ を運営するため進め方について、自分のメモがてら書きなぐっているものです。
 
 このドキュメントの中身が、どこかでなにかの参考になるといいかなーと思います。
@@ -36,10 +38,9 @@ Todo
 ----
 
 .. todolist::
-   
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`search`
-
