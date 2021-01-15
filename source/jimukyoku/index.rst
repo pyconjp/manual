@@ -12,4 +12,5 @@
    media_sponsorship
    budget
    accounts
+   accounts-outsourcing
 
