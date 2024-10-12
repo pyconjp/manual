@@ -1,2 +1,2 @@
 solar-theme==1.3.3
-Sphinx==8.0.2
+Sphinx==8.1.1
